@@ -1,0 +1,2 @@
+Hello hadoop This is test file created by Bekzhigit Sanzhar
+for task 3 test Bye haoop

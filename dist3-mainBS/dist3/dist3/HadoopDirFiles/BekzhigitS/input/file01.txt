@@ -1,0 +1,3 @@
+Hello world This is test file of Bekzhigit Sanzhar
+ for task 3 Bye world
+
